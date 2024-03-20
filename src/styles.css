@@ -21,7 +21,7 @@ body {
     display: block;
     width: max-content;
     margin: 2rem auto;
-    color: #ffd700;
+    color: #f3dc5a;
 }
 
 .link::after {
@@ -30,7 +30,7 @@ body {
     width: 100%;
     height: 1.5px;
     margin-top: .1rem;
-    background-color: #ffd700;
+    background-color: #f3dc5a;
     border-radius: .3rem;
     transform: scaleX(0);
     transition: transform .3s linear;
